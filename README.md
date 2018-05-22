@@ -8,7 +8,7 @@ tl;dr: we propose three calls to action-
     - [Humanities Commons](https://hcommons.org)
     - [Open Science Framework](https://osf.io)
     - [GitHub](https://github.com)
-    - If you do GitHub, recommend topic tags: teaching, rstats
+        - If you do GitHub, recommend topic tags: teaching, rstats
 
 ## Add a topic tag
 
