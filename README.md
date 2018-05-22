@@ -20,7 +20,8 @@ tl;dr: we propose three calls to action-
 ## Search by topic tags
 ![Voila!](/images/search-results.png)
 
-2. Participate in rOpenSci Education profile series
+2. Participate in rOpenSci Education profile series:
+    - [Sign up here!](https://goo.gl/forms/M6XOA0JccbSl6mge2)
 3. Discuss with us how you want to be involved in [rOpenSci Educators’ Collaborative](https://github.com/ropenscilabs/rOpenSciEd)
 
 
