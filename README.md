@@ -12,13 +12,18 @@ tl;dr: we propose three calls to action-
 
 ## Add a topic tag
 
-![Add topics](/images/add-topics.png)
+<a href= "url"><img src="https://github.com/ropenscilabs/rOpenSciEd/blob/master/images/add-topics.png" width="50%"></a>
+
 
 ## Manage your topic tags
-![Manage topics](/images/manage-topics.png)
+
+<a href= "url"><img src="https://github.com/ropenscilabs/rOpenSciEd/blob/master/images/manage-topics.png" width="75%"></a>
+
 
 ## Search by topic tags
-![Voila!](/images/search-results.png)
+
+<a href= "url"><img src="https://github.com/ropenscilabs/rOpenSciEd/blob/master/images/search-results.png" width="60%"></a>
+
 
 2. Participate in rOpenSci Education profile series:
     - [Sign up here!](https://goo.gl/forms/M6XOA0JccbSl6mge2)
