@@ -8,6 +8,18 @@ tl;dr: we propose three calls to action-
     - [Humanities Commons](https://hcommons.org)
     - [Open Science Framework](https://osf.io)
     - [GitHub](https://github.com)
+    - If you do GitHub, recommend topic tags: teaching, rstats
+
+## Add a topic tag
+
+![Add topics](/images/add-topics.png)
+
+## Manage your topic tags
+![Manage topics](/images/manage-topics.png)
+
+## Search by topic tags
+![Voila!](/images/search-results.png)
+
 2. Participate in rOpenSci Education profile series
 3. Discuss with us how you want to be involved in [rOpenSci Educators’ Collaborative](https://github.com/ropenscilabs/rOpenSciEd)
 
