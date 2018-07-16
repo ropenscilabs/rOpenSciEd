@@ -30,7 +30,15 @@ tags:
 
 In the first post of this series, we sketched out some of the common challenges faced by educators who teach with R across scientific domains. In this post, we delve into what makes a "good" educational resource for teaching science with R.
 
-For instructors teaching sciences with R, there are a number of open educational resources that they can reuse, tailor to their own teaching style, or use to inspire them in creating their own materials. Some examples are [Data wrangling, exploration, and analysis with R (a.k.a. STAT545)](http://stat545.com/) originally developed by Jenny Bryan, [ModernDive: An Introduction to Statistical and Data Sciences via R](http://moderndive.com) by Chester Ismay & Albert Y. Kim, [RStudio's Data Science "Course in a Box"](https://github.com/rstudio-education/datascience-box) by Mine Çetinkaya-Rundel, and [Statistics and R](http://rafalab.github.io/pages/harvardx.html) by Rafael Irizarry and Michael Love. What makes these kinds of teaching materials appealing for educators?
+For instructors teaching sciences with R, there are a number of open educational resources that they can reuse, tailor to their own teaching style, or use to inspire them in creating their own materials. Some examples are:
+
+- [Data wrangling, exploration, and analysis with R (a.k.a. STAT545)](http://stat545.com/) originally developed by Jenny Bryan, 
+- [ModernDive: An Introduction to Statistical and Data Sciences via R](http://moderndive.com) by Chester Ismay & Albert Y. Kim, 
+- [RStudio's Data Science "Course in a Box"](https://github.com/rstudio-education/datascience-box) by Mine Çetinkaya-Rundel,
+- [Statistics and R](http://rafalab.github.io/pages/harvardx.html) by Rafael Irizarry and Michael Love
+- The lessons offered by [The Carpentries](https://carpentries.org/), including [Software Carpentry](https://software-carpentry.org/lessons/) which are domain agnostic, and [Data Carpentry](http://www.datacarpentry.org/lessons/) which are domain specific. 
+
+What makes these kinds of teaching materials appealing for educators?
 
 For starters, curricular material for teaching must be open to be available and discoverable by other educators. However, a common belief is that educational resources that are closed are better than any open material can ever be. Otherwise, why would someone pay for educational materials? While there are surely cases of closed educational resources that are excellent, openness is one of the most appealing characteristics of high quality teaching resources for teaching sciences with R. Open materials also have no cost for students, allow a community of educators and students to improve and update the materials, and make it possible to reuse and adapt resources. All this makes the whole teaching experience a lot more efficient for the education community at large. In the closed model, where educators do not share their materials openly, they are often working alone (or in small groups) without any feedback nor the contribution of a nurturing community. 
 
@@ -42,5 +50,7 @@ Courses that are developed using examples based on real data from the domain of 
 
 /* Stef suggested this para lost her, and I may second that- is it helpful or can we make it more helpful?*/
 Another feature of good course materials is that they teach people to be independent. Courses that focus in step-by-step instructions toward a topic, usually fall short to be as helpful in real life as courses that teach concepts that generalize to uses outside the classroom. In real life it is more important to know what questions to ask, how to find good answers to those questions, and how to keep the knowledge acquired up to date than to follow step-by-step tutorials for a procedure that may age.
+
+How these learning aims are met, either as apart of a formal term long course, or in a short burst, like a two day workshop, can impact what makes good course materials. For a term long course, lessons that can be woven into existing courses may be more useful, where as teaching a certain set of R skills in a short burst may benefit from a more formal set of lessons that have been tested in an intensive workshop experience. 
 
 In the following and last post for this series, we summarize some priority needs and call for action to advance these priorities to further resources teaching sciences with R.
