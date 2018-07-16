@@ -1,4 +1,3 @@
-
 ---
 slug: educollab-challenges
 title: "rOpenSci Educators Collaborative: What Are The Challenges For Teaching Science With R?"
