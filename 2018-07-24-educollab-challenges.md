@@ -1,8 +1,8 @@
 ---
 slug: educollab-challenges
 title: "rOpenSci Educators Collaborative: What Are The Challenges For Teaching Science With R?"
-date: 2018-05-22
-preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative - a community of practice for people interested and engaged in science education using R. This blog post is the first of a 3-post series about education and R, written by this group of unconf18 participants. Read the second post about what makes a "good" open educational resource [here](), and the third post about fostering a community of practice around teaching science with R and how to get involved [here]()."
+date: 2018-07-24
+preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative: a community of practice for people interested and engaged in science education using R. This blog post is the first of a three-post series about education and R, written by this group of unconf18 participants. Read about how to get involved [here](https://github.com/ropenscilabs/rOpenSciEd)."
 authors:
   - name: Laura Ación
     url: https://github.com/lauracion
@@ -17,7 +17,7 @@ authors:
   - name: Sean Kross
     url: https://github.com/seankross
   - name: Lincoln Mullen
-    url: https://github.com/lmullen
+    url: https://lincolnmullen.com
 categories: blog
 topicid: 
 tags:
@@ -27,7 +27,6 @@ tags:
 - unconf
 - unconf18
 ---
-
 
 Educators who teach science using R tend to face common pedagogical problems, regardless of their scientific domain. Yet instructors who teach with R often feel isolated at their institutions. They may be the only ones in their departments to teach using R; even if there are others, unlike the rich culture of collaboration around research, the culture of collaboration around teaching materials is rare. In this three-part series of blog posts, participants at the rOpenSci 2018 unconf briefly surveyed the state of teaching science with R. This first post aims to summarize the main challenges that educators face, as a tool to help them think through the decisions they make about their course materials. The second post explains what makes for a good educational resource which can address these shared challenges. The final post sketches out the main things that educators can do in the future to create and share teaching materials and — even more important — to foster a community of practice around teaching science with R.
 

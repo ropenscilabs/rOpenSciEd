@@ -1,8 +1,8 @@
 ---
 slug: educollab-community
 title: "rOpenSci Educators Collaborative: How Can We Develop a Community Of Innovative R Educators?"
-date: 2018-05-22
-preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative - a community of practice for people interested and engaged in science education using R. This blog post is the third of a 3-post series about education and R, written by this group of unconf18 participants. Read the first post about common pedagogical challenges [here](), and the second post about what makes a "good" open educational resource [here]()."
+date: 2018-07-26
+preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative: a community of practice for people interested and engaged in science education using R. This blog post is the third of a three-post series about education and R, written by this group of unconf18 participants. Read the first post about common pedagogical challenges [here](/2018/07/24/educollab-challenges/), and the second post about what makes a good open educational resource [here](/2018/07/25/educollab-resources/)."
 authors:
   - name: Laura Ación
     url: https://github.com/lauracion
@@ -17,7 +17,7 @@ authors:
   - name: Sean Kross
     url: https://github.com/seankross
   - name: Lincoln Mullen
-    url: https://github.com/lmullen
+    url: https://lincolnmullen.com
 categories: blog
 topicid: 
 tags:
@@ -28,13 +28,13 @@ tags:
 - unconf18
 ---
 
-_tl;dr: we propose three calls to action:
+**tl;dr**: we propose three calls to action:
 
 1. Share your curricular materials in the open
 1. Participate in rOpenSci Education profile series
 1. Discuss with us how you want to be involved in [rOpenSci Educators’ Collaborative](https://github.com/ropenscilabs/rOpenSciEd)_
 
----
+------------------------------
 
 In previous posts in this series, we identified challenges that individual instructors typically face when teaching science with R, and shared characteristics of “good” educational resources to help address these challenges. However, ultimately the toughest challenges that educators in this area face are human, rather than technological. Our shared experiences highlight a strong community of innovative R educators. However, this community is currently not well-connected or easily discoverable. 
 

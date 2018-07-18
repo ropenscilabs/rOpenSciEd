@@ -1,8 +1,8 @@
 ---
 slug: educollab-resources
 title: "rOpenSci Educators Collaborative: What Educational Resources Work and Why?"
-date: 2018-05-22
-preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative - a community of practice for people interested and engaged in science education using R. This blog post is the second of a 3-post series about education and R, written by this group of unconf18 participants. Read the first post about common pedagogical challenges [here](), and the third post about fostering a community of practice around teaching science with R and how to get involved [here]()."
+date: 2018-07-25
+preface: "At the [5th annual rOpenSci unconference](http://unconf18.ropensci.org) in May 2018, a group of scientists and educators shared their experiences, frustrations, failures, and successes teaching science with R. What came out of this discussion was a framework for rOpenSci Educators’ Collaborative: a community of practice for people interested and engaged in science education using R. This blog post is the second of a three-post series about education and R, written by this group of unconf18 participants. Read the first post about common pedagogical challenges [here](/blog/2018/07/24/educollab-challenges/), and how to get involved [here](https://github.com/ropenscilabs/rOpenSciEd)."
 authors:
   - name: Laura Ación
     url: https://github.com/lauracion
@@ -17,7 +17,7 @@ authors:
   - name: Sean Kross
     url: https://github.com/seankross
   - name: Lincoln Mullen
-    url: https://github.com/lmullen
+    url: https://lincolnmullen.com
 categories: blog
 topicid: 
 tags:
